@@ -1,0 +1,6 @@
+kaleido 
+lightweight-charts
+plotly
+tkinter
+
+
